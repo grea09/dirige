@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="images/" >
+        <file alias="handfree.png" >brush.png</file>
+        <file alias="handfree-cursor.png" >brush-cursor.png</file>
+        <file alias="color.png" >color-line.png</file>
+        <file alias="new.png" >document-new.png</file>
+        <file alias="open.png" >document-open.png</file>
+        <file alias="save.png" >document-save.png</file>
+        <file alias="save-as.png" >document-save-as.png</file>
+        <file alias="end.png" >end-flag.png</file>
+        <file alias="end_p.png" >end-flag_p.png</file>
+        <file alias="eraser.png" >eraser.png</file>
+        <file alias="line.png" >line.png</file>
+        <file alias="color-add.png" >list-add.png</file>
+        <file alias="color-delete.png" >application-exit.png</file>
+        <file alias="color-edit.png" >color-picker.png</file>
+        <file alias="run.png" >media-playback-start.png</file>
+        <file alias="stop.png" >media-playback-stop.png</file>
+        <file alias="ellipse.png" >oval.png</file>
+        <file alias="fill.png" >paint.png</file>
+        <file alias="rectangle.png" >rectangle.png</file>
+        <file alias="start.png" >start-flag.png</file>
+        <file alias="start_p.png" >start-flag_p.png</file>
+        <file alias="dirige.svg" >Logo-Dirige.svg</file>
+        <file alias="dirige.png" >Logo-Dirige.png</file>
+        <file alias="nxt.svg" >NXT.svg</file>
+        <file alias="help.png" >system-help.png</file>
+        <file alias="zoom-plus.png" >zoom-in.png</file>
+        <file alias="zoom-minus.png" >zoom-out.png</file>
+        <file alias="zoom-def.png" >zoom-original.png</file>
+    </qresource>
+</RCC>
